@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstallAppDemo</string>
+    <string name="title">我的应用自动装</string>
+    <string name="description">装应用时候我帮你点</string>
+</resources>
